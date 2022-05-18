@@ -2,7 +2,8 @@
 
 overview of git commands
 
-stuff added in new branch
+more main stuff
+Stuff added on main
 
 ### Basic Commands
 
