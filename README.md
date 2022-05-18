@@ -5,7 +5,6 @@ overview of git commands
 ### Basic Commands
 
 * 'git init' - initalize a new local repo
-* 'git status' - show status of local working directory
 * 'git add' - stage local changes for commit
 * 'git commit -m "some message"' - commit staged changes with commit message
 
@@ -14,6 +13,7 @@ overview of git commands
 * 'git status' - show status of local working tree
 * 'git log' - list of commit history of current branch
 * 'git log --oneline' - compact listing commit history
+* 'git config -l' - list local repo configuration
 
 ### Branching Commands
 
