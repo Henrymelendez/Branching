@@ -1,5 +1,7 @@
 ## Git command Cheet Sheet
 
+overview of git commands
+
 ### Basic Commands
 
 * 'git init' - initalize a new local repo
@@ -16,5 +18,5 @@
 ### Branching Commands
 
 * 'git branch ' - list local branches
-* 'git branch branchName' - create local branch 
+* 'git branch branchName' - create local branch
 * 'git checkout branchName' - checkout local branch 'branchName'
