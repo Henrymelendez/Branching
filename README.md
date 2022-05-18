@@ -2,6 +2,8 @@
 
 overview of git commands
 
+stuff added in new branch
+
 ### Basic Commands
 
 * 'git init' - initalize a new local repo
